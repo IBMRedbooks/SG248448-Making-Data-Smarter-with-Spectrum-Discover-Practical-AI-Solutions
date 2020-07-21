@@ -81,6 +81,10 @@ def plot(age, sex, smoker):
     bins = np.linspace(0, 120, 20)
     sns.distplot(age[sex == "M"], color="blue", bins=bins)
     sns.distplot(age[sex == "F"], color="red", bins=bins)
+    plt.xlabel("Patients age (6-year intervals)")
+    plt.ylabel("Proportion of each age interval")
+    plt.yticks([])
+    plt.legend(labels=["Male", "Female"])
     plt.savefig("plot-ages_histogram.png")
 
     # Ages catplot
