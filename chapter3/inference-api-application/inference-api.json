@@ -1,0 +1,10 @@
+{
+  "application_name": "inference-api",
+  "version": "0.0.1",
+  "description": "Send Dicom files to inference thru an API",
+  "repo_name": "ibmcom/spectrum-discover-inference-api",
+  "LOG_LEVEL": "INFO",
+  "INFERENCE_API_SERVER_HOST": "http://10.7.13.202",
+  "INFERENCE_API_SERVER_ENDPOINT": "/infer",
+  "INFERENCE_API_SERVER_PORT": "5757"
+}
