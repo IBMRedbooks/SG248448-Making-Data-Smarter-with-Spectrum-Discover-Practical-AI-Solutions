@@ -1,1 +1,1 @@
-This is the public github repository for the "Making Data Smarter with IBM Spectrum Discover Practical AI Solutions, REDP5604" IBM Redpaper. 
+This is the public github repository for the "Making Data Smarter with IBM Spectrum Discover Practical AI Solutions, SG248448" IBM Redbooks.  The code is provided on an AS_IS basis. You can download this book at http://www.redbooks.ibm.com/Redbooks.nsf/RedpieceAbstracts/sg248488.html?Open.
